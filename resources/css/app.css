@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-custom {
+    font-size: 18px; /* Adjust font size */
+    font-weight: bold; /* Make font bolder */
+    padding: 10px 20px; /* Adjust padding for size */
+}
